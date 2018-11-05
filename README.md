@@ -1,6 +1,6 @@
 # Platformer Game
 
-Simple platformer game made with JavaScript, CSS and HTML and lots of caffeine, as this was made at 3AM, with drowsy eyes and inquisitive mind.
+Simple platformer game made with JavaScript, CSS, HTML and lots of caffeine, as this was made at 3AM, with drowsy eyes and inquisitive mind.
 
 
 > Quick Look
